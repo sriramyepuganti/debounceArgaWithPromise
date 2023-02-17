@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "ES2015",
+    "declaration": true,
+    "outDir": "lib",
+    "removeComments": true
+  },
+}
