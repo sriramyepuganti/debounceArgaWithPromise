@@ -1,3 +1,3 @@
 export {
     debouncePromise
-} from './src/debounceArgsWithPromise';
+} from './src/debouncePromises';
